@@ -9,3 +9,10 @@
 	font-weight: 600;
 
 }
+
+.dog_li{
+	height: 40px;
+}
+.dog_li:hover{
+	background-color: #efefef; 
+}
