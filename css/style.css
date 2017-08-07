@@ -1,4 +1,11 @@
 .img-clicker{
-	margin: 15px;
-	
+	margin: 0;
+	display: block;
+
+}
+
+.counter{
+	margin: 30px;
+	font-weight: 600;
+
 }
